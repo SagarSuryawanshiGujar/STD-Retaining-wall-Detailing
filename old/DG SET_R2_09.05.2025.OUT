@@ -1,0 +1,45 @@
+
+
+ ETABS Nonlinear I 64-bit 22.6.0 Build 4035 (Analysis Build 9991/64)            
+ File: D:\SAGAR\VIEW\DG SET_R2_09.05.2025.OUT                                   
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1 TO       4    -   -   -   -   -   -
+       5 TO       8    A   A   A   A   A   A
+       9 TO      12    -   -   -   -   -   -
+      13 TO      16    A   A   A   A   A   A
+      17 TO      20    -   -   -   -   -   -
+      21 TO     231    A   A   A   A   A   A
+     232               -   -   -   -   -   -
+     233               A   A   A   A   A   A
+     234               -   -   -   -   -   -
+     235 TO     237    A   A   A   A   A   A
+     238 TO     239    -   -   -   -   -   -
+     240 TO     242    A   A   A   A   A   A
+     243 TO     246    -   -   -   -   -   -
+     247 TO     250    A   A   A   A   A   A
+     251 TO     254    -   -   -   -   -   -
+     255 TO     259    A   A   A   A   A   A
+     260               +   +   A   A   A   +
+     261 TO     329    A   A   A   A   A   A
+     330               +   +   A   A   A   +
+     331 TO     399    A   A   A   A   A   A
+     400               +   +   A   A   A   +
+     401 TO     567    A   A   A   A   A   A
+     568                                    
+     569 TO     702    A   A   A   A   A   A
+     469 TO     471    +   +   -   -   -   +
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 1       TO 5          A   A               A
